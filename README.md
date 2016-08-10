@@ -1,2 +1,2 @@
 # xls-reader
-read xls files with go
+read **xlsx** files with go
