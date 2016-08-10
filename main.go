@@ -12,7 +12,7 @@ var applicationRoot string
 func init() {
 
 	// set repo root path
-	err := os.Chdir("/Users/kOssi/gocode/src/github.com/skoslitz/xls-reader/files")
+	err := os.Chdir("/Users/kOssi/gocode/src/github.com/skoslitz/xlsx-reader/files")
 
 	if err != nil {
 		fmt.Println("Can't change working directory")
